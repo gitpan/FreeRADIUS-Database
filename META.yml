@@ -25,4 +25,7 @@ requires:
   DBIx::Recordset: 0
   DateTime: 0
   Test::More: 0
-version: 0.05
+resources:
+  bugtracker: https://bitbucket.org/spek/freeradius-database/issues
+  repository: https://bitbucket.org/spek/freeradius-database
+version: 0.06
